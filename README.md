@@ -1,2 +1,3 @@
 # output-setup-info
 Go and run thru the virt-manager setup again...
+If you want you can run: "sudo apt install kde-standard" To use it as a regular operating.
